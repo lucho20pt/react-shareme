@@ -1,7 +1,7 @@
 export default {
   name: 'save',
   title: 'Save',
-  type: 'string',
+  type: 'document',
   fields: [
     {
       name: 'postedBy',
